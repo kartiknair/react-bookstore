@@ -1,8 +1,8 @@
-##About
+## About
 
 This is a web app that lets you find books and download them. It uses the libgen search api made by [Dunn](https://github.com/dunn).
 
-##Live version
+## Live version
 
 Visit the live version at [kartiknair.github.io/react-bookstore](https://kartiknair.github.io/react-bookstore/)
 
